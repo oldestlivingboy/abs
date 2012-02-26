@@ -4,6 +4,7 @@
     "private": true,
     "dependencies": {
       "express": "2.5.5",
-      "ejs"    : "*"
+      "express-mongoose": "*",
+      "ejs": "*"
     }
 }
